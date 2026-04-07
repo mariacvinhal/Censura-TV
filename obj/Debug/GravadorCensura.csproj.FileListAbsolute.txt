@@ -1,0 +1,10 @@
+C:\Users\RTU 001\source\repos\GravadorCensura\GravadorCensura\bin\Debug\GravadorCensura.exe.config
+C:\Users\RTU 001\source\repos\GravadorCensura\GravadorCensura\bin\Debug\GravadorCensura.exe
+C:\Users\RTU 001\source\repos\GravadorCensura\GravadorCensura\bin\Debug\GravadorCensura.pdb
+C:\Users\RTU 001\source\repos\GravadorCensura\GravadorCensura\obj\Debug\GravadorCensura.csproj.AssemblyReference.cache
+C:\Users\RTU 001\source\repos\GravadorCensura\GravadorCensura\obj\Debug\GravadorCensura.Form1.resources
+C:\Users\RTU 001\source\repos\GravadorCensura\GravadorCensura\obj\Debug\GravadorCensura.Properties.Resources.resources
+C:\Users\RTU 001\source\repos\GravadorCensura\GravadorCensura\obj\Debug\GravadorCensura.csproj.GenerateResource.cache
+C:\Users\RTU 001\source\repos\GravadorCensura\GravadorCensura\obj\Debug\GravadorCensura.csproj.CoreCompileInputs.cache
+C:\Users\RTU 001\source\repos\GravadorCensura\GravadorCensura\obj\Debug\GravadorCensura.exe
+C:\Users\RTU 001\source\repos\GravadorCensura\GravadorCensura\obj\Debug\GravadorCensura.pdb
