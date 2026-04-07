@@ -580,8 +580,8 @@ namespace GravadorCensura
         {
             try
             {
-                string token = "8772738745:AAEGxd5XoUEX7efIczYV-oF-k2NHnmvHb0E";
-                string chatId = "1005513631";
+                string token = "TOKEN";
+                string chatId = "ID";
                 string url = $"https://api.telegram.org/bot{token}/sendMessage?chat_id={chatId}&text={Uri.EscapeDataString(mensagem)}&parse_mode=Markdown";
 
                 using (System.Net.Http.HttpClient client = new System.Net.Http.HttpClient())
